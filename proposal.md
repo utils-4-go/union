@@ -1,0 +1,1 @@
+The purpose of this package is to provide helper functions for finding the union of all fields between two maps or structures.
